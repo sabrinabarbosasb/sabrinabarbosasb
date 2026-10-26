@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Sabrina Barbosa
 **`Quality Assurance Engineer`**
 
-My name is Sabrina Barbosa Soares Bezerra, a Computer Science graduate based in Recife, Brazil. I am a Senior Quality Assurance Engineer with over seven years of experience in the field, having started my career in 2019.
+My name is Sabrina Barbosa Soares Bezerra, a Computer Science graduate from Recife, Brazil and based in Cardiff, UK. I am a Senior Quality Assurance Engineer with over seven years of experience in the field, having started my career in 2019.
 
 <p align="left">
     <a href="https://github.com/sabredeluz?tab=repositories&sort=stargazers">
